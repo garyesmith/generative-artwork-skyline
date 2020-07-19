@@ -1,0 +1,15 @@
+canvas {
+	background-color: white;
+	width: 320px;
+	height: 320px;
+}
+h1 {
+	font-size: 17px;
+	line-height: 22px;
+	color: #000000;
+}
+p {
+	font-size: 12px;
+	line-height: 16px;
+	color: #888888;
+}
