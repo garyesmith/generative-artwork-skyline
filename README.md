@@ -1,6 +1,6 @@
 # Generative Artwork: "Skyline"
 
-A Processing.js code-generated landscape featuring a moon and trees reflected on water.
+A Processing.js code-generated cityscape featuring skyscrapers and trees.
 
 This is a simplified version of the code used to generate the Skyline artworks on https://www.genartive.com.
 
