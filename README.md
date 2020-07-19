@@ -26,7 +26,7 @@ On each execution a "main" hue between 1 and 360 is chosen at random, and then [
 Note that all calculations related to x and y coordinates, or widths and heights of elements, are scaled to the rendered size of the canvas. On [genartive.com](https://www.genartive.com) this enables me to seed the `random()` function with a fixed value and then regenerate the same artwork multiple times on canvases of any size. The logic for this seeding and resizing is not included in this simplified sample code.
 
 # Usage Permissions
-Please use this code for educational purposes, to satisfy your curiousity or to adapt parts or techniques for your own projects.
+Please use this code for educational purposes, to satisfy your curiosity or to adapt parts or techniques for your own projects.
 
 Do not redistribute this code unmodified in its entirety.
 
